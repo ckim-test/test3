@@ -2,6 +2,7 @@
 library(shiny)
 library(ggmap)
 library(readr)
+library(data.table)
 
 # Load data
 load("data/station_latlon.RData")
